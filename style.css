@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    
+}
+section {
+    width: 50%;
+    margin: auto;
+}
+a {
+    color: black;
+}
+span{
+    text-decoration: underline;
+}
+ul {
+    list-style: none;
+  }
+  ul li:before {
+    content: '✓';
+  }
+  
+  
