@@ -6,23 +6,51 @@ body{
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
+    background-color: black;
     
 }
 section {
     width: 50%;
     margin: auto;
+    background-color: white;
+}
+img{
+    padding: 10px 5px 10px 60px;
+    width: 90%;
+    
 }
 a {
     color: black;
+    padding: 40px 59px;
+}
+h3{
+    margin: 1px 1px -45px;
+    padding: 40px 59px;
 }
 span{
     text-decoration: underline;
 }
 ul {
     list-style: none;
+    padding: 10px 59px 2px;
+    margin: 1px;
+  }
+  #perm{
+    margin:6px;
   }
   ul li:before {
     content: '✓';
+  }
+  p{
+    padding: 10px 59px 2px;
+    margin: 1px;
+    
+  }
+ 
+  .img{
+    width: 95%;
+    padding: 10px 30px 10px 60px;
+    margin-top: 15px;
   }
   
   
